@@ -1,5 +1,7 @@
 # WebAppBoilerplate
 
+Enterprise level boilerplate for web apps using NX, NestJs, Ant Design, ReactJS, MongoDb and Firebase.
+
 This project was generated using [Nx](https://nx.dev).
 
 <p align="center"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
